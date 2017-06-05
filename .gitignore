@@ -1,0 +1,6 @@
+dogImages/**
+lfw/**
+DogVGG16Data/**
+*.pyc
+*.hdf5
+*.npz
